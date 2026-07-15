@@ -11,3 +11,12 @@ The system uses a custom-trained YOLOv8 model together with a pretrained COCO mo
 - 📊 Confidence threshold adjustment
 - ⚡ Fast inference with cached models
 
+## Datasets
+
+This project uses the following publicly available datasets:
+
+- **LVIS Fruits & Vegetables Dataset** – Used to train the YOLOv8 ingredient detection model.
+- **Epicurious Recipe Dataset** – Used for recipe matching and recommendations.
+
+Due to licensing and repository size limitations, the datasets are not included in this repository. Please download them from their official sources and place them in the appropriate directories before running the project.
+
